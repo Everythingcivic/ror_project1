@@ -3,4 +3,5 @@ class Post
   field :name, type: String
   field :age, type: Integer
   field :comment, type: String
+  field :address, type: String
 end
